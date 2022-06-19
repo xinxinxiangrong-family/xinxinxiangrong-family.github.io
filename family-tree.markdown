@@ -35,18 +35,18 @@ permalink: /family-tree/
 
 孙女 -- 
 
-* 蔡可茹 (蔡怀征)
+* 蔡可茹 （蔡怀征）
 * 张音音（蔡幼欣）
 * Katy（蔡幼兰）
 
 孙子 -- 
 
-* [蔡醒诗/蔡晓歌](https://newptcai.gitlab.io/) (蔡怀江)
-* 刘桢(蔡亚宁)
+* [蔡醒诗/蔡晓歌](https://newptcai.gitlab.io/) （蔡怀江）
+* 刘桢（蔡亚宁）
 * 祁典（蔡幼兰）
 * Andrew（蔡幼旭）
 * Steven（蔡幼旭）
-* 蔡尔文 (蔡怀征)
+* 蔡尔文 （蔡怀征）
 
 # 原始资料
 
