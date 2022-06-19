@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+img {
+  display: block;
+  margin: auto;
+  width: 70%;
+}
+
+p.author {
+    font-style: smaller;
+}

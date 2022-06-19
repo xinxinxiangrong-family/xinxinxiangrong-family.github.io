@@ -20,6 +20,7 @@
 
 title: 欣欣向荣
 email: xsc@tutanota.com
+author: 赵欣与蔡向荣的后人
 description: >- # this means to ignore newlines until "baseurl:"
   赵欣和蔡向荣的家族网站
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -51,3 +52,13 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Customization
+timezone: Asia/Shanghai
+header_pages:
+  - posts.markdown
+  - old-photos.markdown
+  - family-tree.markdown
+  - about.markdown
+minima:
+  date_format: "%Y-%m-%d"
