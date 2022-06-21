@@ -6,9 +6,25 @@
 img {
   display: block;
   margin: auto;
-  width: 70%;
+  max-width: 70%;
+}
+
+center {
+  font-size: smaller;
+  margin-bottom: 20px;
+  color: #828282;
+}
+
+div.photo img {
+  max-height: 400px;
+  object-fit: contain;
 }
 
 p.author {
-    font-style: smaller;
+    font-size: smaller;
+}
+
+blockquote {
+    font-size: smaller;
+    font-style: normal;
 }

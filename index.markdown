@@ -11,4 +11,6 @@ tags: 赵欣 蔡向荣
 
 ![The whole family](/assets/whole-family-01.jpg)
 
+<center>蔡向荣，赵欣与子女（1969年）</center>
+
 To be done.
