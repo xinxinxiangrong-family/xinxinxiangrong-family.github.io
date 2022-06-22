@@ -52,3 +52,19 @@ permalink: /old-photos/
 
 <center>蔡幼兰，赵欣（美国）</center>
 
+![](/assets/old-photos/14.jpg)
+
+<center>赵欣与子女（2018年6月，美国）</center>
+
+![](/assets/old-photos/15.jpg)
+
+<center>赵欣与子女，护润德养护中心工作人员（2019年，赵欣90岁生日，四川省成都市）</center>
+
+
+![](/assets/old-photos/16.jpg)
+
+<center>赵欣与蔡晚（蔡朝众女儿，蔡向荣侄孙女），任小惠，钟翠荣（护润德养护中心工作人员）</center>
+
+![](/assets/old-photos/17.jpg)
+
+<center>赵欣与子女及女婿麦克（蔡幼欣丈夫，英文名：Michael J O'Connor）（2020年，赵欣91岁生日，四川省成都市）</center>

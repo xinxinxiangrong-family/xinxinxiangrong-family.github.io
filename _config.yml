@@ -59,6 +59,7 @@ header_pages:
   - posts.markdown
   - old-photos.markdown
   - family-tree.markdown
+  - acknowledgement.markdown
   - about.markdown
 minima:
   date_format: "%Y-%m-%d"
