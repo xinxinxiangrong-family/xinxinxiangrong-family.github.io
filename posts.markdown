@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: 纪念文章
+title: 文字
 permalink: /posts/
 ---
 

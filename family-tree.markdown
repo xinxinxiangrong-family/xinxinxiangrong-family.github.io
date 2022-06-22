@@ -83,8 +83,8 @@ toc: true
 ### 蔡幼旭
 
 <div class="photo">
-<p><img src="/assets/family-tree/cai-youxu.jpg" alt="蔡怀江，蔡幼旭，蔡幼兰"></p>
-<center>蔡怀江，蔡幼旭，蔡幼兰</center>
+<p><img src="/assets/family-tree/cai-youxu.jpg" alt="蔡怀江，蔡幼旭，蔡幼欣"></p>
+<center>蔡怀江，蔡幼旭，蔡幼欣</center>
 </div>
 
 三女。与丈夫威廉· 杰德育有两子安德鲁和史蒂文。
