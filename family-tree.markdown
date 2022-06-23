@@ -2,7 +2,8 @@
 layout: page
 title: 家谱
 permalink: /family-tree/
-toc: true
+image: /assets/family-tree/cai-xiangrong.jpg
+description: 我们家的家谱。
 ---
 
 *最后更新 -- 2022-06-19*

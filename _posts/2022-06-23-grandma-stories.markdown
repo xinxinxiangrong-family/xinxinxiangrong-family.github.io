@@ -3,6 +3,10 @@ layout: post
 title:  A Few Stories of My Grandma
 tags: 赵欣
 author: Xing Shi Cai
+date: 2022-06-23
+image: /assets/posts/xingshi-and-grandma.jpg)
+lang: en
+description: Some stories my grandma told when my grandpa passed away.
 ---
 
 ![Grandma, me and my parents](/assets/posts/xingshi-and-grandma.jpg)

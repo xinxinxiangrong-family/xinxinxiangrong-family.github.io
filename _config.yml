@@ -31,6 +31,7 @@ rss: "RSS订阅"
 mastodon:
   - username: cailegacy
     instance: ieji.de
+lang: zh
 
 # Build settings
 theme: minima

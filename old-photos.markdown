@@ -2,6 +2,8 @@
 layout: page
 title: 影像
 permalink: /old-photos/
+image: /assets/old-photos/01.jpg
+description: 我们家的老照片。
 ---
 
 ![](/assets/old-photos/01.jpg)
