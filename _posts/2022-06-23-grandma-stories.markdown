@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  A Few Stories of My Grandma
-date:   2022-06-19
 tags: 赵欣
 author: Xing Shi Cai
 ---
@@ -66,8 +65,12 @@ to join the red army of the Chinese Communist Party (CCP)
 to fight Japanese invaders.
 After surviving the Sino-Japanese war 
 and the ensuing civil war ending with the CCP victorious,
-he went back to Langzhong and asked her sister to find him a fiancee.
-And the woman who took the offer was no other than my grandma.
+he went back to Langzhong and asked his sister, i.e., my grandaunt, 
+to find him a fiancee.
+It happened that my grandaunt was a teacher 
+and had had grandma as a student.
+So she suggested the marriage to grandma.
+Although grandma has never met grandpa, she said yes.
 
 So my grandma and her mother
 travelled from Langzhong to Xi'an (西安), 
@@ -111,7 +114,7 @@ a colleague of hers tried to teach her
 to do a small surgery on a patient.
 But her were hands just too gentle to make an incision
 on the patient's skin,
-and she remained a physical until her retirement.
+and she remained a physician until her retirement.
 
 During the Korean war, 
 some injured Chinese soldiers were sent to her hospital to be treated.
