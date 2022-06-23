@@ -7,6 +7,7 @@ date: 2022-06-23
 image: /assets/posts/xingshi-and-grandma.jpg
 lang: en
 description: Some stories my grandma told when my grandpa passed away.
+mastodon: https://ieji.de/@cailegacy/108527830897845348
 ---
 
 ![Grandma, me and my parents](/assets/posts/xingshi-and-grandma.jpg)

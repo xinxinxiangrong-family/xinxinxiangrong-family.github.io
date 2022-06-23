@@ -4,6 +4,7 @@ title: 家谱
 permalink: /family-tree/
 image: /assets/family-tree/cai-xiangrong.jpg
 description: 我们家的家谱。
+mastodon: https://ieji.de/@cailegacy/108527654782896933
 ---
 
 *最后更新 -- 2022-06-19*
