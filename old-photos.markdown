@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 老照片
+title: 影像
 permalink: /old-photos/
 ---
 

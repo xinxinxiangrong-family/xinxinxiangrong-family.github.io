@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: 欣欣向荣
-email: xsc@tutanota.com
+email: info@cailegacy.net
 author: 赵欣与蔡向荣的后人
 description: >- # this means to ignore newlines until "baseurl:"
   赵欣和蔡向荣的家族网站
@@ -28,6 +28,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 rss: "RSS订阅"
+mastodon:
+  - username: cailegacy
+    instance: ieji.de
 
 # Build settings
 theme: minima
