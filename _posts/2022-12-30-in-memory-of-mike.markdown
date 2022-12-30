@@ -7,6 +7,7 @@ date: 2022-12-30
 image: /assets/posts/06-mike.jpg
 lang: zh
 description: Some memories of Mike.
+mastodon: https://ieji.de/@cailegacy/109600677947511089
 ---
 
 过两天就是麦克（Mike）去世三个月的日子。几天前墓园的人通知我们，墓碑做好了。这里的墓碑，其实就是一块铜牌。10月24号，女儿和我去了墓园。同行的有一对夫妇。他们是旧识，想去看看他。结果因为喜欢那个环境，他们也在同一个地方买下了一块地，说将来到地下可以做邻居。
