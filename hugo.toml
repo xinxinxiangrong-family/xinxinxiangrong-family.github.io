@@ -6,6 +6,9 @@ enableEmoji = true
 defaultContentLanguage = 'zh'
 defaultContentLanguageInSubdir = false
 
+disqusShortname = 'xinxinxiangrong'
+
+
 [languages]
   [languages.zh]
     disabled = false
@@ -74,6 +77,7 @@ defaultContentLanguageInSubdir = false
 [params]
   # PaperMod
   ShowShareButtons = true
+  comments = true
 
   # header social icons
   mastodon = 'https://ieji.de/@cailegacy'   # e.g. 'https://mastodon.instance/@xxx'
