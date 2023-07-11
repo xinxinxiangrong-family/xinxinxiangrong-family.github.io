@@ -6,14 +6,9 @@
     {{with .Params.disqus_identifier }}this.page.identifier = '{{ . }}';{{end}}
     {{with .Params.disqus_title }}this.page.title = '{{ . }}';{{end}}
     {{with .Params.disqus_url }}this.page.url = '{{ . | html  }}';{{end}}
-    {{with site.LanguageCode }}this.language = '{{ . | html  }}';{{end}}
+    {{with site.Language}}this.language = '{{ . | html  }}';{{end}}
     };
     (function() {
-        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
-            document.getElementById('disqus_thread').innerHTML = '{{ i18n
-                "comment_local" }}';
-            return;
-        }
         var d = document, s = d.createElement('script'); s.async = true;
         s.src = '//' + {{ .Site.DisqusShortname }} + '.disqus.com/embed.js';
         s.setAttribute('data-timestamp', +new Date());
