@@ -72,6 +72,9 @@ defaultContentLanguageInSubdir = false
       description = 'This website is dedicated to the memory of Zhao Xin (赵欣) and Cai Xiangrong (蔡向荣) and other family members who have left us.'
 
 [params]
+  # PaperMod
+  ShowShareButtons = true
+
   # header social icons
   mastodon = 'https://ieji.de/@cailegacy'   # e.g. 'https://mastodon.instance/@xxx'
   rss = true                                # show rss icon
