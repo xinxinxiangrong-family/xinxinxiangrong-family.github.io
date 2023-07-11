@@ -1,0 +1,13 @@
+.post-content figure img {
+  display: block;
+  margin: auto;
+  width: 70%;
+}
+
+.post-content figure.portrait img {
+  width: 50%;
+}
+
+.post-content figure figcaption {
+    text-align: center;
+}
