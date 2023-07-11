@@ -1,0 +1,5 @@
+comment_system:
+  other: "评论功能由Disqus提供"
+
+comment_local:
+  other:  "当网站在本地预览时，默认情况下不可用Disqus评论"
