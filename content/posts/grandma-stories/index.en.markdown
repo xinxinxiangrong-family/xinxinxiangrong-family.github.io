@@ -2,11 +2,12 @@
 title:  A Few Stories of My Grandma
 author: Xing Shi Cai
 date: 2022-06-23
-image: /assets/posts/xingshi-and-grandma.jpg
 description: Some stories my grandma told when my grandpa passed away.
+cover:
+    image: "xingshi-and-grandma.jpg"
+    alt: "Grandma, Me and My Parents"
+    caption: "Grandma, Me and My Parents"
 ---
-
-{{<figure src="xingshi-and-grandma.jpg" title="Grandma, Me and My Parents" >}}
 
 ## A Night of Stories
 

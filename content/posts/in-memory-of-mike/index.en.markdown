@@ -1,18 +1,19 @@
 ---
 title:  Remembering My Husband Mike
-author: Youxin Cai (蔡幼欣)
+author: Youxin Cai
 date: 2022-12-30
-image: 06-mike.jpg
 description: Some memories of Mike.
+cover:
+    image: "mike-03.jpg"
+    alt: "Mike's Tomb"
+    caption: "Mike's Tomb"
 ---
 
 In a couple of days, it will mark the third month since the passing of my husband Mike. A few days ago, we were informed by the cemetery that his tombstone had been prepared. Here, a tombstone is essentially a bronze plaque. On October 24th, my daughter and I went to the cemetery. We were accompanied by a couple who were old acquaintances and wished to pay him a visit. So taken were they by the environment, they ended up purchasing a plot there too, saying they could be neighbors with him in the afterlife.
 
-{{<figure src="mike-01.jpg" class="portrait" title="Mike's Tombstone">}}
+{{<figure src="mike-01.jpg" class="portrait">}}
 
 {{<figure src="mike-02.jpg" class="portrait">}}
-
-{{<figure src="mike-03.jpg">}}
 
 Upon returning, I decided to start writing about my memories of Mike. Where to begin? We shared over 20 years of life together, and there's so much to say... In summary, the words "kindness" and "humility" essentially describe Mike completely. His excellent education, his higher IQ compared to his siblings, and his experience teaching at university, all seem less significant when contrasted with his inherently kind and humble nature.
 
@@ -38,6 +39,8 @@ After teaching at the university for seven years, Mike, unable to get a tenured 
 
 Mike loved to read and his reading range was very wide. He majored in geography, but his mathematics was also very good, and he was interested in literature and history. He often watched a quiz show on TV called "Jeopardy", and he answered questions very quickly, sometimes faster and more accurately than the contestants. Every time this happened, he would say, "I told you. You didn't listen to me!" He taught his little grandson to play chess, and also taught him to play Wordle. As the child grew up, he would teach his grandson some natural science and history knowledge in their chats; he would play with blocks and ball games with him; he tried his best to satisfy the child's requests. After the grandson started school, whenever he had problems with his homework, Mike would patiently help him. When the grandson started playing soccer, Mike tried to watch and cheer him on at every training and match.
 
+{{<figure src="mike-05.jpg" class="portrait" title="Mike and his grandson">}}
+
 Mike also loved to travel. Before I met him, he often traveled with friends, having been to many places in Africa, South America, and Europe. The places we visited together, that I can count, are -
 
 * Mainland China: Beijing, Shanghai, Hangzhou, Xi'an
@@ -56,6 +59,8 @@ Mike also loved to travel. Before I met him, he often traveled with friends, hav
 
 Being well-read, Mike always knew where to go and what to see. Traveling with him, I didn't need to worry about anything, he planned and arranged everything. We also went on a few cruises, two of which were with my mother.
 
+{{<figure src="mike-04.jpg" title="Mike and my mother took cruise ships">}}
+
 Speaking of my mother, she passed away at the age of 92 in Chengdu on March 8, 2022. I was very sad at the time, and regretted that I couldn't go back to send her off due to the pandemic. I remember on the day my mother passed, I was crying, Mike was comforting me by my side, and he called our daughter to come and stay with me. That same afternoon, Mike went out to do voluntary tax reporting for low-income people, and on his way home in the dark and heavy rain, he crashed the car. After the car was sent for repairs, it wasn't fixed until three months later because the parts were not available, and by then, Mike couldn't drive anymore. What I didn't expect was that Mike also left me less than five months after my mother's death, on August 1. He left me forever...
 
 Looking back on the 23 years we spent together, there were not completely without moments of anger and unhappiness. Although Mike was mild-mannered, he could also be very stubborn at times. I would get angry and say some harsh things. In general, he would silently turn around and leave, go to another room to avoid me, come out after more than an hour, and ask with a smile and calm voice, "Are you still mad at me?"
@@ -69,6 +74,8 @@ Mike, you are always in my heart and will always be in my life, always... always
 As 2022 came to an end, some reporters said that several important figures had died this year: the Queen of England, the former Prime Minister of Japan, the former President of Russia, and other celebrities... But the two most important people in my life, my mother who gave birth to me, and my husband who loved me the most, both left in the same year. The great sorrow has made me cry many times. As I intermittently wrote these commemorative words to today, I finally feel a bit relieved, at peace.
 
 God bless the souls of my mother and Mike in heaven, and bless the rest of my life.
+
+{{<figure src="mike-06.jpg" title="Mike and my momther">}}
 
 Written at the end of December 2022 at Atlanta USA.
 

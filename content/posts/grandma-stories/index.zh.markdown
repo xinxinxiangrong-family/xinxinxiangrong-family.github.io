@@ -2,11 +2,12 @@
 title:  我婆婆的几个故事
 author: 蔡醒诗
 date: 2022-06-23
-image: /assets/posts/xingshi-and-grandma.jpg
 description: 我婆婆在我爷爷去世时告诉我一些她的故事。
+cover:
+    image: "xingshi-and-grandma.jpg"
+    alt: "婆婆，我和我的父母"
+    caption: "婆婆，我和我的父母"
 ---
-
-{{<figure src="xingshi-and-grandma.jpg" title="婆婆，我和我的父母" >}}
 
 ## 一个讲故事的夜晚
 

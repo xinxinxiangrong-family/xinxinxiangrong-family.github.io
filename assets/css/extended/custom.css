@@ -11,3 +11,9 @@
 .post-content figure figcaption {
     text-align: center;
 }
+
+figure.entry-cover img {
+  display: block;
+  margin: auto;
+  width: 70%;
+}

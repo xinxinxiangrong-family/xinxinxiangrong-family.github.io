@@ -4,6 +4,10 @@ author: 蔡幼欣
 date: 2022-12-30
 image: 06-mike.jpg
 description: 关于麦克的一些回忆。
+cover:
+    image: "mike-03.jpg"
+    alt: "麦克的墓"
+    caption: "麦克的墓"
 ---
 
 过两天就是麦克（Mike）去世三个月的日子。
@@ -14,11 +18,9 @@ description: 关于麦克的一些回忆。
 结果因为喜欢那个环境，他们也在同一个地方买下了一块地，
 说将来到地下可以做邻居。
 
-{{<figure src="mike-01.jpg" class="portrait" title="麦克的墓碑">}}
+{{<figure src="mike-01.jpg" class="portrait">}}
 
 {{<figure src="mike-02.jpg" class="portrait">}}
-
-{{<figure src="mike-03.jpg">}}
 
 回来后，我决定开始写一点回忆麦克的文字。
 从何说起呢？20多年的共同生活，有太多太多能说的了……其实概括起来，善良，谦和，这两个词基本就能完全描述麦克这个人了。至于说他受过的良好教育，他的相比于他兄弟姊妹都要高的智商，在大学任教的经历，在他善良，谦和的本质面前，似乎都不那么亮眼了。
