@@ -17,3 +17,14 @@ figure.entry-cover img {
   margin: auto;
   width: 70%;
 }
+
+.first-entry {
+  min-height: 0;
+  margin-bottom: 0;
+  margin-top: 50px;
+}
+
+.first-entry .entry-footer {
+  font-size: 14px;
+  height: 0;
+}

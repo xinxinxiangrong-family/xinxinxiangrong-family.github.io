@@ -8,8 +8,8 @@ defaultContentLanguageInSubdir = false
 
 disqusShortname = 'xinxinxiangrong'
 
-
 [languages]
+
   [languages.zh]
     disabled = false
     languageCode = 'zh-CN'
@@ -41,6 +41,10 @@ disqusShortname = 'xinxinxiangrong'
     [languages.zh.params]
       author = '蔡氏家族'
       description = '谨以此网站纪念蔡向荣，赵欣以及其他逝去的亲人们。'
+    [languages.zh.params.homeInfoParams]
+      Title = '纪念文章'
+      Content = '每分享一个故事，每书写一段记忆，我们就在寂静中赋予生命，照亮回忆之路'
+
   [languages.en]
     disabled = false
     languageCode = 'en-US'
@@ -73,14 +77,11 @@ disqusShortname = 'xinxinxiangrong'
     [languages.en.params]
       author = 'Cai Family'
       description = 'This website is dedicated to the memory of Zhao Xin (赵欣) and Cai Xiangrong (蔡向荣) and other family members who have left us.'
+    [languages.en.params.homeInfoParams]
+      Title = 'Memorial Essays'
+      Content = 'With each story shared, each memory penned, we breathe life into the silence, illuminating the path of remembrance.'
 
 [params]
   # PaperMod
-  ShowShareButtons = true
   comments = true
-
-  # header social icons
-  mastodon = 'https://ieji.de/@cailegacy'   # e.g. 'https://mastodon.instance/@xxx'
-  rss = true                                # show rss icon
-  github = 'xinxinxiangrong-family'         # github.com/YOUR_GITHUB_ID
-
+  displayFullLangName = true
