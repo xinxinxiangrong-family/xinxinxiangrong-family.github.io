@@ -2,7 +2,7 @@
 title:  从阆中到南充
 author: 蔡醒诗
 date: 2023-07-12
-status: draft
+draft: true
 description: 1938年8月到1939年5月的一段回忆
 cover:
     image: "manuscript.jpg"

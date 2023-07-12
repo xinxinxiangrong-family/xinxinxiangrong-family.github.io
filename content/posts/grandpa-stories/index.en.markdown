@@ -2,7 +2,7 @@
 title: From Langzhong to Nanchong
 author: Xing Shi Cai
 date: 2023-07-12
-status: draft
+draft: true
 description: A memoir from August 1938 to May 1939
 cover:
     image: "manuscript.jpg"
