@@ -5,7 +5,7 @@ date: 2023-07-12
 draft: true
 description: A memoir from August 1938 to May 1939
 cover:
-    image: "manuscript.jpg"
+    image: "../images/manuscript-01.jpg"
     alt: "Grandfather's manuscript"
     caption: "Grandfather's manuscript"
 ---

@@ -1,17 +1,19 @@
 ---
-title:  从阆中到南充
+title:  从阆中到南充 01
 author: 蔡醒诗
 date: 2023-07-12
 draft: true
 description: 1938年8月到1939年5月的一段回忆
 cover:
-    image: "manuscript.jpg"
+    image: "/images/zhaoxin-xiangrong.jpg"
     alt: "爷爷的手稿"
     caption: "爷爷的手稿"
 ---
 
 *以下内容为我爷爷蔡震宇1984年8月9日留下的一封手稿整理而成。
 个别文字无法辨认，以\*标记*
+
+{{<figure src="manuscript-01.jpg" title="爷爷的手稿" >}}
 
 ---
 
