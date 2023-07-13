@@ -168,7 +168,7 @@ It was an important city in the Western Sichuan economic zone in ancient times.
 
 [^2]: According to the family tree left by my grandfather, there might be a
 mistake here.
-Cai Guozheng should be my grandfather's fifth-generation ancestor.
+Guozheng Cai should be my grandfather's fifth-generation ancestor.
 
 [^3]: Plaque: A wooden board used for inscriptions or paintings, usually hung
 above the door or in the main hall.
@@ -193,8 +193,8 @@ More like it should be "Northwestern Middle School".
 [^9]: The 29th Army was a military unit of the National Revolutionary Army
 during the Republic of China, mainly active in Sichuan and Chongqing.
 
-[^10]: "Family implications" are my grandfather's considerations
-to protect his family when he changed his name to Xiangrong.
+[^10]: At the time, joining the Chinese Communist Party is considered to be a
+"disloyal" act by the Nationalist Party of China government.
 
 [^11]: In traditional Chinese society, women often only had a surname, without
 a given name.
