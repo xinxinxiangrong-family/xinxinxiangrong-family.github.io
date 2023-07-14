@@ -8,11 +8,7 @@ cover:
     caption: "Xin Zhao and Xiangrong Cai (1958)"
 ---
 
-*This article is a translation of the first part of a manuscript left by my grandfather Xiangrong Cai on August 9, 1984.
-Some characters in the manuscript that could not be identified are marked with
-an asterisk (\*) in the Chinese version of this post. Here I just try to make
-the best guess
-I can.*
+*This article is a translation of the first part of a manuscript left by my grandfather Xiangrong Cai on August 9, 1984.*
 
 ---
 
@@ -95,7 +91,7 @@ He could not have foreseen the demise of the landlord class at that time.
 
 My mother, Mrs. Zhao (name not recorded[^11]), managed the household.
 She died in 1943 from depression caused by my "escape".
-Otherwise, she should have worn a "participatory" hat.
+Otherwise, she should have worn a "participatory" hat[^12].
 
 My elder brother Zhendong Cai graduated from the Chinese Department of Sichuan
 University in 1932 and has been teaching in Chengdu ever since.
@@ -107,22 +103,22 @@ he became the head of the Education Department of the county government.
 He died in 1952[^7].
 
 My second sister, Yun Cai,
-married a physical education teacher after graduating from junior high
+married a physical education teacher Siqi Zhang after graduating from junior high
 school, and she is also of landlord composition.
 She was a primary school teacher after the Liberation and is now retired.
 
 My third sister, Song Cai,
 graduated from the Normal Department of Sichuan University before the Liberation.
 She and her husband Pengjiu Zheng both joined the Communist Party in the early
-days[^12],
+days of the Sino-Japanese war,
 but they both quit the party later.
 She has been teaching for over 40 years and died in March 1983.
 
-Among the five of us siblings,
+Among all the five children of my parents,
 only my eldest sister,
 Xian Cai,
 did not go to school.
-She married one of our cousins,
+She married Yingu Zhao, one of our cousins,
 who has a rich peasant family background.
 My brother-in-law is a poet and a traditional Chinese medicine practitioner.
 Both of them have passed away.
@@ -143,7 +139,7 @@ I went to Chengdu and switched to "Sichuan University Affiliated Elementary
 School".
 I didn't get my elementary school diploma,
 since after only one year,
-I switched to "Jianguo Middle School" (now Lai \* Zheng Street No.8 Middle
+I switched to "Jianguo Middle School" (now Dongsheng Street No.8 Middle
 School[^8]) to study junior middle school, 
 with the qualification of having
 "academic ability equivalent to an elementary school graduate".
@@ -156,15 +152,14 @@ Since Langzhong County did not have a high school,
 I transferred to the "Sichuan Provincial Nanchong Middle School" in Nanchong
 (the school is located at Lotus Pond).
 I studied there for less than a year, and in May 1939, 
-the party sent me to northern Shaanxi. 
-From that point onwards, I was fully immersed in the furnace of revolution.
+the party sent me to northern Shaanxi to study a youth training camp. 
+From that point onward, I was fully immersed in the furnace of revolution.
 
 {{<figure src="01.jpg" title="Grandpa's manuscript page 1" >}}
 {{<figure src="02.jpg" title="Grandpa's manuscript page 2" >}}
 
 [^1]: Langzhong County, formerly known as Baoning County, is located in the
 northeast of Sichuan Province and the middle reaches of Jialing River.
-It was an important city in the Western Sichuan economic zone in ancient times.
 
 [^2]: According to the family tree left by my grandfather, there might be a
 mistake here.
@@ -185,16 +180,18 @@ was a military and political leader in the Republic of China.
 He was the chairman of the National Government of the Republic of China from
 1931 to 1932.
 
-[^7]: It is possible that my grandfather wrote 1962 here.
+[^7]: It is possible that my grandfather wrote 1962 here. 
+But 1952 is more likely considering the historical background.
 
-[^8]: It is probably a mistake here.
-More like it should be "Northwestern Middle School".
+[^8]: More likely my grandfather was referring to the Northwestern Middle School.
 
 [^9]: The 29th Army was a military unit of the National Revolutionary Army
 during the Republic of China, mainly active in Sichuan and Chongqing.
 
 [^10]: At the time, joining the Chinese Communist Party is considered to be a
-"disloyal" act by the Nationalist Party of China government.
+"disloyal" act by the Republic of China government.
 
-[^11]: In traditional Chinese society, women often only had a surname, without
+[^11]: In traditional Chinese societies, women often only had a surname, without
 a given name.
+
+[^12]: This is an euphemism for "being given an undesirable label".
