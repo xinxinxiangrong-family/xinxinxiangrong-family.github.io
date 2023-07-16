@@ -1,4 +1,4 @@
-baseURL = 'http://www.cailegacy.net/'
+baseURL = 'https://www.cailegacy.net/'
 theme = 'PaperMod'
 
 enableEmoji = true
