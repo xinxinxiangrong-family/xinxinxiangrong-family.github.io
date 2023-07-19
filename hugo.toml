@@ -13,85 +13,93 @@ tag = 'tags'
 
 [languages]
 
-  [languages.zh]
-    disabled = false
-    languageCode = 'zh-CN'
-    languageDirection = 'ltr'
-    languageName = '中文'
-    title = '欣欣向荣'
-    weight = 1
-    [languages.zh.menu]
-      [[languages.zh.menu.main]]
-      name = "关于"
-      pageRef = "/about"
-      weight = 30
-      [[languages.zh.menu.main]]
-      name = '致谢'
-      pageRef = '/acknowledgement'
-      weight = 25
-      [[languages.zh.menu.main]]
-      name = '家谱'
-      pageRef = '/family-tree'
-      weight = 20
-      [[languages.zh.menu.main]]
-      name = '影像'
-      pageRef = '/photos'
-      weight = 10
-      [[languages.zh.menu.main]]
-        name = '文章'
-        pageRef = '/posts'
-        weight = 5
-      [[languages.zh.menu.main]]
-        name = "标签"
-        pageRef = "/tags"
-        weight = 27
-    [languages.zh.params]
-      author = '蔡氏家族'
-      description = '谨以此网站纪念蔡向荣，赵欣以及其他逝去的亲人们。'
-    [languages.zh.params.homeInfoParams]
-      Title = '纪念文章'
-      Content = '每分享一个故事，每书写一段记忆，我们就在寂静中赋予生命，照亮回忆之路'
+[languages.zh]
+disabled = false
+languageCode = 'zh-CN'
+languageDirection = 'ltr'
+languageName = '中文'
+title = '欣欣向荣'
+weight = 1
 
-  [languages.en]
-    disabled = false
-    languageCode = 'en-US'
-    languageDirection = 'ltr'
-    languageName = 'English'
-    title = 'Xin and Xiangrong'
-    weight = 2
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        name = "About"
-        pageRef = "/about"
-        weight = 30
-      [[languages.en.menu.main]]
-      name = 'Acknowledgement'
-      pageRef = '/acknowledgement'
-      weight = 25
-      [[languages.en.menu.main]]
-        name = 'Family Tree'
-        pageRef = '/family-tree'
-        weight = 20
-      [[languages.en.menu.main]]
-        name = 'Photos'
-        pageRef = '/photos'
-        weight = 10
-      [[languages.en.menu.main]]
-        name = 'Posts'
-        pageRef = '/posts'
-        weight = 5
-      [[languages.en.menu.main]]
-        name = "Tags"
-        pageRef = "/tags"
-        weight = 27
-    [languages.en.params]
-      author = 'Cai Family'
-      description = 'This website is dedicated to the memory of Zhao Xin (赵欣) and Cai Xiangrong (蔡向荣) and other family members who have left us.'
-    [languages.en.params.homeInfoParams]
-      Title = 'Memorial Essays'
-      Content = 'With each story shared, each memory penned, we breathe life into the silence, illuminating the path of remembrance.'
+[languages.zh.menu]
+
+[[languages.zh.menu.main]]
+name = "关于"
+pageRef = "/about"
+weight = 30
+[[languages.zh.menu.main]]
+name = '致谢'
+pageRef = '/acknowledgement'
+weight = 25
+[[languages.zh.menu.main]]
+name = '家谱'
+pageRef = '/family-tree'
+weight = 20
+[[languages.zh.menu.main]]
+name = '影像'
+pageRef = '/photos'
+weight = 10
+[[languages.zh.menu.main]]
+name = '文章'
+pageRef = '/posts'
+weight = 5
+[[languages.zh.menu.main]]
+name = "标签"
+pageRef = "/tags"
+weight = 27
+
+[languages.zh.params]
+author = '蔡氏家族'
+description = '谨以此网站纪念蔡向荣，赵欣以及其他逝去的亲人们。'
+
+[languages.zh.params.homeInfoParams]
+Title = '纪念文章'
+Content = '每分享一个故事，每书写一段记忆，我们就在寂静中赋予生命，照亮回忆之路'
+
+[languages.en]
+disabled = false
+languageCode = 'en-US'
+languageDirection = 'ltr'
+languageName = 'English'
+title = 'Xin and Xiangrong'
+weight = 2
+
+[languages.en.menu]
+
+[[languages.en.menu.main]]
+name = "About"
+pageRef = "/about"
+weight = 30
+[[languages.en.menu.main]]
+name = 'Acknowledgement'
+pageRef = '/acknowledgement'
+weight = 25
+[[languages.en.menu.main]]
+name = 'Family Tree'
+pageRef = '/family-tree'
+weight = 20
+[[languages.en.menu.main]]
+name = 'Photos'
+pageRef = '/photos'
+weight = 10
+[[languages.en.menu.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 5
+[[languages.en.menu.main]]
+name = "Tags"
+pageRef = "/tags"
+weight = 27
+
+[languages.en.params]
+author = 'Cai Family'
+description = 'This website is dedicated to the memory of Zhao Xin (赵欣) and Cai Xiangrong (蔡向荣) and other family members who have left us.'
+
+[languages.en.params.homeInfoParams]
+Title = 'Memorial Essays'
+Content = 'With each story shared, each memory penned, we breathe life into the silence, illuminating the path of remembrance.'
 
 [params]
-  # PaperMod
-  comments = true
-  displayFullLangName = true
+# PaperMod
+comments = true
+displayFullLangName = true
