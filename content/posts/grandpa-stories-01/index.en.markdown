@@ -1,5 +1,5 @@
 ---
-title: "From Langzhong to Nanchong --- Part One: My Background"
+title: "From Langzhong to Nanchong — Part I. My Background"
 author: Xing Shi Cai
 date: 2023-07-12
 description: Memories from August 1938 to May 1939
@@ -10,7 +10,11 @@ cover:
     caption: "Xin Zhao and Xiangrong Cai (1958)"
 ---
 
-*This article is a translation of the first part of a manuscript left by my grandfather Xiangrong Cai on August 9, 1984.*
+*This article is the first part of a manuscript left by my grandfather Xiangrong
+Cai on August 9, 1984. Some parts of the text could not be recognized and had to
+be omitted or guessed at, and these are not specified individually. For ease of
+reading, some punctuation has been modified and some subheadings have been
+added.*
 
 ---
 
