@@ -3,6 +3,8 @@ title:  Remembering My Husband Mike
 author: Youxin Cai
 date: 2022-12-30
 description: Some memories of Mike.
+tags:
+- Mike
 cover:
     image: "mike-03.jpg"
     alt: "Mike's Tomb"

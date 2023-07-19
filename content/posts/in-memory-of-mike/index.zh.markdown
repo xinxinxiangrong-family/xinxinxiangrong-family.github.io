@@ -4,6 +4,8 @@ author: 蔡幼欣
 date: 2022-12-30
 image: 06-mike.jpg
 description: 关于麦克的一些回忆。
+tags:
+- 麦克
 cover:
     image: "mike-03.jpg"
     alt: "麦克的墓"

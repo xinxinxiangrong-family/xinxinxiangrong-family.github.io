@@ -8,6 +8,9 @@ defaultContentLanguageInSubdir = false
 
 disqusShortname = 'xinxinxiangrong'
 
+[taxonomies]
+tag = 'tags'
+
 [languages]
 
   [languages.zh]
@@ -38,6 +41,10 @@ disqusShortname = 'xinxinxiangrong'
         name = '文章'
         pageRef = '/posts'
         weight = 5
+      [[languages.zh.menu.main]]
+        name = "标签"
+        pageRef = "/tags"
+        weight = 27
     [languages.zh.params]
       author = '蔡氏家族'
       description = '谨以此网站纪念蔡向荣，赵欣以及其他逝去的亲人们。'
@@ -54,7 +61,6 @@ disqusShortname = 'xinxinxiangrong'
     weight = 2
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about"
         name = "About"
         pageRef = "/about"
         weight = 30
@@ -74,6 +80,10 @@ disqusShortname = 'xinxinxiangrong'
         name = 'Posts'
         pageRef = '/posts'
         weight = 5
+      [[languages.en.menu.main]]
+        name = "Tags"
+        pageRef = "/tags"
+        weight = 27
     [languages.en.params]
       author = 'Cai Family'
       description = 'This website is dedicated to the memory of Zhao Xin (赵欣) and Cai Xiangrong (蔡向荣) and other family members who have left us.'

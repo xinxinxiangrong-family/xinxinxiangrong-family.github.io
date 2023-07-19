@@ -3,6 +3,8 @@ title:  从阆中到南充 —— 二. 阆中入党
 author: 蔡醒诗
 date: 2023-07-12
 description: 1938年8月到1939年5月的一段回忆
+tags:
+- 蔡向荣
 cover:
     image: "/images/zhaoxin-xiangrong.jpg"
     caption: "赵欣与蔡向荣（1958年）"

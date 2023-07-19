@@ -3,6 +3,8 @@ title:  我婆婆的几个故事
 author: 蔡醒诗
 date: 2022-06-23
 description: 我婆婆在我爷爷去世时告诉我一些她的故事。
+tags:
+- 赵欣
 cover:
     image: "xingshi-and-grandma.jpg"
     alt: "婆婆，我和我的父母"

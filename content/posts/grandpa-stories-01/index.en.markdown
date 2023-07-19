@@ -3,6 +3,8 @@ title: "From Langzhong to Nanchong --- Part One: My Background"
 author: Xing Shi Cai
 date: 2023-07-12
 description: Memories from August 1938 to May 1939
+tags:
+- Xiangrong Cai
 cover:
     image: "/images/zhaoxin-xiangrong.jpg"
     caption: "Xin Zhao and Xiangrong Cai (1958)"

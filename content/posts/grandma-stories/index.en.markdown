@@ -3,6 +3,8 @@ title:  A Few Stories of My Grandma
 author: Xing Shi Cai
 date: 2022-06-23
 description: Some stories my grandma told when my grandpa passed away.
+tags:
+- Xin Zhao
 cover:
     image: "xingshi-and-grandma.jpg"
     alt: "Grandma, Me and My Parents"
