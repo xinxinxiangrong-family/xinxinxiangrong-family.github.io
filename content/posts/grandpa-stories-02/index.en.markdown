@@ -181,11 +181,11 @@ also ridiculed me for liking to show off.
 
 But I found that Maoji Tang was very "left-leaning" in his thinking. I often
 talked with him, and he introduced me to some progressive books. In the spring
-and summer of 1938, Langzhong already had the "Liberation News". He gave me a
+and summer of 1938, Langzhong already had the "Liberation" magazine. He gave me a
 few issues to read. Both Liangxin Yan and I felt very excited after reading
 them.
 
-### Joining the "Minxian" Team (The Pioneer Team of the Chinese Nation for Anti-Japanese and National Salvation) [^18]
+## Joining the "Minxian" Team (The Pioneer Team of the Chinese Nation for Anti-Japanese and National Salvation) [^18]
 
 I spent about three months conducting propaganda activities in the People's
 Drama Society, during which I got to know some progressive figures, such as
@@ -310,7 +310,7 @@ that not only under the enemy's severe punishment and torture, when faced with
 the threat of being beheaded, can one not admit to being a member of the
 Communist Party, but even to one's own family, one should not reveal one's
 identity as a Party member. Without the permission of the organization, one
-cannot have private relationships with other comrades in the Party. As for you
+cannot have horizontal relationships with other comrades in the Party. As for you
 two, since you're going to Nanchong soon, for now, only maintain relations with
 Maoji Tang.
 
