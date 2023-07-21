@@ -13,102 +13,120 @@ cover:
 
 ## A Night of Stories
 
-My grandma, Xin Zhao (赵欣), passed away on March 8, 2022, at the age of 93.
+My grandma, Xin Zhao (赵欣), passed away on March 8, 2022, when she was 93 years
+old.
 
-To be honest, while she was always very kind to me, I hardly knew anything about
-her life during my growing up years. When I was in college, my grandpa passed
-away, and my grandma moved to the US. Since then, we had few chances to see each
-other again.
+To tell the truth, despite her always being kind to me, I knew very little about
+her life as I was growing up. When I was in college, my grandpa passed away and
+my grandma relocated to the US. From that point on, we had fewer chances to
+meet.
 
-However, one night shortly after my grandpa's funeral, grandma and I sat vigil
-together for grandma. While waiting for my grandpa's spirit to come home, she
-shared some stories about herself. What follows are the stories she told that
-night.
+But one night, shortly after my grandpa's funeral, I found myself keeping a
+vigil with my grandma. As we waited for my grandpa's spirit to come home, she
+began to share stories about her life. The tales that follow were shared with me
+that night.
 
 ## Early Life
 
-My grandma spent her childhood in a village in Langzhong County (阆中县),
-northern Sichuan province.  This was during the Sino-Japanese War (1937-1945).
-Langzhong was far from the front line, but it was repeatedly bombed by Japanese
-airplanes. As a young girl, my grandma once saw the corpse of a farmer killed in
-an air raid lying motionless on a road. Her voice was filled with anger when she
-described this senseless killing.
+My grandma grew up in a village in Langzhong County (阆中县), located in
+northern Sichuan province. These were the years of the Sino-Japanese War
+(1937-1945). Langzhong was a good distance from the front line, but that didn't
+prevent it from being bombed repeatedly by Japanese aircraft[^1]. My grandma,
+just a young girl then, once saw the body of a farmer who had been killed in an
+air raid, lying motionless on a road. I could hear the anger in her voice as she
+recounted this tragic event.
 
-The only benefit of the air raids was that a middle school in Langzhong was
-evacuated to her village. The wife of a middle school teacher, 
-a well-educated lady, opened an elementary school in my grandma's village.
-This gave my grandma a chance to get an education and
-was an important turning point of her life.
+There was one unexpected benefit from these air raids. A middle school in
+Langzhong was evacuated to her village. The wife of one of the middle school
+teachers, a well-educated woman herself, opened an elementary school in my
+grandma's village. This event gave my grandma the opportunity to receive an
+education, marking an important turning point in her life.
 
-Later, her father, who was extraordinarily enlightened for his time, sent my
-grandma and her elder sister to a middle school in the city of Longzhong. They
-both did well and became elementary school teachers upon graduation.  By this
-time, she had already achieved what was impossible for most women in China at
-that time. But her journey to the wider world had just begun.
+Later, her father, who was quite progressive for his era, sent my grandma and
+her older sister to a middle school in the city of Longzhong. They both studied
+hard, did well, and became elementary school teachers upon graduation. By that
+time, my grandma had already achieved more than most women in China could dream
+of at that period. But, as it turned out, her journey to the wider world was
+only just beginning.
 
 ## Marriage with My Grandpa
 
-My grandpa, Xiangrong Cai (蔡向荣), also came from Langzhong.  As a teenager, he
-ran away from a comfortable home to join the army lead the Chinese Communist
-Party to fight the Japanese invaders. After surviving the Sino-Japanese War and
-the Liberation War, he returned to Langzhong and asked his sister, my grandaunt,
-to find him a fiancee. My grandaunt was a also a teacher what had taught my
-grandma.  So she proposed this marriage to my grandma.  Although she had
-never met my grandpa, grandma said yes.
+{{<figure src="/images/zhaoxin-xiangrong.jpg" caption="Grandma and Grandpa \(1958\)">}}
 
-Thus, my grandma and her mother travelled from Langzhong to Xi'an (西安), where
-my grandpa's was stationed. Nowadays, such a journey takes about three hours by
-high-speed trains. But at the time, the roads from Sichuan to Xi'an were
-treacherous.  It took grandma several days to travel by bus.
+My grandpa, Xiangrong Cai (蔡向荣), also hailed from Langzhong. As a teenager,
+he left a comfortable home behind to join the Chinese Communist Party's army and
+fight against the Japanese invaders. After surviving both the Sino-Japanese War
+and the Liberation War, he returned to Langzhong and enlisted the help of his
+sister, my grandaunt, to find him a potential wife. My grandaunt, who had been
+my grandma's teacher, suggested this marriage to my grandma. Despite never
+having met my grandpa, my grandma agreed.
 
-To her surprise, my grandpa did not like her when they finally met and tried to
-break the engagement, allegedly because she was a bit too short to be his ideal wife.
-Grandma must have been disappointed after enduring such an exhausting journey
-only to have her hope for a new life dashed. But she put herself together and
-told my grandpa,
+As a result, my grandma and her mother embarked on a journey from Langzhong to
+Xi'an (西安), where my grandpa was stationed. Nowadays, high-speed trains can
+cover such a distance in about three hours. However, back then, the roads from
+Sichuan to Xi'an were fraught with peril, making the journey several days long
+by bus.
+
+Much to her surprise, when they finally met, my grandpa did not take a liking to
+her and attempted to call off the engagement. Allegedly, this was because he
+considered her a bit too short to be his ideal wife. Naturally, after enduring
+such a grueling journey with the hope of starting a new life, this must have
+been a massive disappointment to my grandma. Yet, she pulled herself together
+and said to my grandpa,
 
 > "It's fine if you don't want to marry me. 
-> But please help me find a job in Xi'an
+> But please help me find a job in Xi'an, 
 > and I will take care of myself and my mom. 
 > Everyone back home knows that I'm supposed to marry you; 
-> I cannot go back like this."
+> I can't go back like this."
 
-To this day, I still remember her gentle yet courageous voice when she recounted
+To this day, I still recall the gentle courage in her voice as she recounted
 these words that night.
 
-Perhaps her attitude moved my grandpa. They ended up getting married. 
-Their marriage lasted 53 years until the day my grandpa passed away.
+Perhaps it was her resilience that eventually won my grandpa over. They did end
+up getting married, and their union lasted 53 years, right up until the day my
+grandpa passed away.
 
 ## A New Career
 
-After marrying my grandfather, my grandma studied at a medical college and later
-became one of the first generation of doctors in the People's Republic of China
-who received modern medical training.
+{{<figure src="grandma-at-university.jpg" caption="Grandma visiting her University (2014)">}}
 
-At that time, such doctors were very rare in China. So even though she had never
-received surgical training, a colleague tried to teach her to perform minor
-surgeries on patients. Unfortunately, my grandma's hands were too gentle to
-make an incision in a patient's skin. So she remained an internist until her
+Upon marrying my grandfather, my grandma enrolled at the Fourth Military Medical
+University[^2]. She later became a part of the first generation of doctors in
+the People's Republic of China to receive modern medical training.
+
+Such doctors were a rarity in China at the time. Therefore, even though she
+hadn't received surgical training, a colleague tried to teach her to perform
+minor surgeries. Unfortunately, my grandma's hands were too delicate to make
+incisions in a patient's skin. As a result, she remained an internist until her
 retirement.
 
 During the Korean War, some injured soldiers were sent to her hospital for
-treatment. Among them was a paraplegic soldier who was very distressed and often
-hurled abuse at doctors and nurses. "But when it was my turn to take care of
-him, he never yelled at me," my grandma proudly said. This is the only time
-I remember my grandma bragging about something she had done.
+treatment. Among them was a paraplegic soldier who was often distressed and
+would hurl abuse at the medical staff. "But when it was my turn to take care of
+him, he never yelled at me," my grandma would say with pride. This is the only
+time I can recall my grandma boasting about something she had done.
 
 ## Legacy
 
-After grandma's funeral, I visited her youngest brother, who was too frail to
-attend the funeral.  As we talked about my grandmother, he told me,
+After my grandma's funeral, I paid a visit to her youngest brother, who was too
+frail to attend the ceremony. As we reminisced about my grandmother, he told me,
 
 > "I still remember when I was young, 
-> she bought me books and encouraged me to educate myself. 
+> she would buy me books and encourage me to educate myself. 
 > Our generation lived through some really hard times. 
-> But no matter how bad the circumstances were, 
-> your grandma always tried to improve herself and her situation. 
-> I have always admired her for that."
+> But no matter how bad things got, 
+> your grandma always strove to improve herself and her situation. 
+> I've always admired her for that."
 
-I don't believe in afterlives and reincarnations. Flesh and bones are all I
-know. But when I think of my grandma, I believe that she still lives on — not as
-a supernatural 👻, but as our memories and inspirations. That is her legacy.
+I'm not a believer in afterlives or reincarnation. I only know the world of
+flesh and bones. But when I think of my grandma, I'm certain that she lives on —
+not as some supernatural entity, but as our shared memories and inspirations.
+That is her enduring legacy.
+
+[^1]: According to one
+  [source](https://auto.sohu.com/20050727/n240199033.shtml), during the war, the
+  Japanese air force dropped 419 bombs on Langzhong, resulting in 217 casualties
+  and 320 injuries.
+[^2]: Now known as The Air Force Medical University. See
+  [Wikipedia](https://en.wikipedia.org/wiki/Air_Force_Medical_University).
