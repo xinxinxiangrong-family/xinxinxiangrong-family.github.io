@@ -14,10 +14,6 @@ tag = 'tags'
 [languages]
 
 [languages.zh]
-disabled = false
-languageCode = 'zh-CN'
-languageDirection = 'ltr'
-languageName = '中文'
 title = '欣欣向荣'
 weight = 1
 
@@ -57,10 +53,6 @@ Title = '纪念文章'
 Content = '每分享一个故事，每书写一段记忆，我们就在寂静中赋予生命，照亮回忆之路'
 
 [languages.en]
-disabled = false
-languageCode = 'en-US'
-languageDirection = 'ltr'
-languageName = 'English'
 title = 'Xin and Xiangrong'
 weight = 2
 
