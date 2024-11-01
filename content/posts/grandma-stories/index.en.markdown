@@ -2,7 +2,7 @@
 title:  A Few Stories of My Grandma
 author: Xing Shi Cai
 date: 2022-06-23
-description: Some stories my grandma told when my grandpa passed away.
+description: Some stories my grandma shared when my grandpa passed away.
 tags:
 - Xin Zhao
 cover:
@@ -16,53 +16,52 @@ cover:
 My grandma,
 Xin Zhao (赵欣),
 passed away on March 8,
-2022, when she was 93 years old.
+2022, at the age of 93.
 
-To tell the truth,
-despite her always being kind to me,
+To be honest,
+despite her constant kindness towards me,
 I knew very little about her life as I was growing up.
 When I was in college,
-my grandpa passed away, and my grandma relocated to the US.
+my grandpa passed away, and my grandma moved to the US.
 From that point on,
-we had few chances to meet.
+our chances to meet became scarce.
 
-But one night,
+However, one night,
 shortly after my grandpa's funeral and before she moved abroad,
-I sat for a vigil with my grandma.
-As we waited for my grandpa's spirit to come home,
+I sat with my grandma for a vigil.
+As we awaited my grandpa's spirit to return home,
 she began to share stories about her life.
-The tales that follow were what I was told that night.
+The tales that follow are what I heard that night.
 
 ## Early Life
 
 My grandma grew up in a village in Langzhong County (阆中县),
 located in northern Sichuan province.
 These were the years of the Sino-Japanese War (1937-1945).
-Langzhong was a good distance from the front line,
-but that didn't prevent it from being bombed repeatedly by Japanese aircraft[^1].
-My grandma,
-just a young girl then,
-once saw the body of a farmer who had been killed in an air raid,
+Langzhong was a considerable distance from the front lines,
+but that didn't stop it from being bombed repeatedly by Japanese aircraft[^1].
+As a young girl, my grandma once witnessed the body of a farmer
+who had been killed in an air raid,
 lying motionless on a road.
 I could hear the anger in her voice as she recounted this tragic event.
 
-There was one unexpected benefit from these air raids.
+There was, however, one unexpected benefit from these air raids.
 A middle school in Langzhong was evacuated to her village.
 The wife of one of the middle school teachers,
-a well-educated woman herself,
-opened an elementary school in my grandma's village.
-This event gave my grandma the opportunity to receive an education,
-marking an important turning point in her life.
+a well-educated woman in her own right,
+established an elementary school in my grandma's village.
+This opportunity allowed my grandma to receive an education,
+marking a significant turning point in her life.
 
-Later, her father, who was quite progressive for his era,
+Later, her father, who was quite progressive for his time,
 sent my grandma and her older sister to a middle school in the city of Longzhong.
 They both studied hard, did well,
-and became elementary school teachers upon graduation.
+and eventually became elementary school teachers upon graduation.
 By that time,
-my grandma had already achieved more than most women in China could have dreamed
-of at that period.
+my grandma had accomplished more than most women in China could have dreamed
+of during that period.
 But, as it turned out,
-her journey to the wider world was only just beginning.
+her journey into the wider world was only just beginning.
 
 ## Marriage with My Grandpa
 
@@ -75,24 +74,24 @@ After surviving both the Sino-Japanese War and the Liberation War,
 he returned to Langzhong and enlisted the help of his sister
 to find him a potential wife.
 Her sister, who had been my grandma's teacher,
-suggested this marriage to her.
+recommended this marriage to her.
 Despite having never met my grandpa, my grandma agreed.
 
-As a result,
+Consequently,
 my grandma and her mother embarked on a journey from Langzhong to Xi'an (西安),
 where my grandpa was stationed.
-Nowadays, high-speed trains can cover such a distance in about three hours.
-However, back then, the roads from Sichuan to Xi'an were fraught with peril,
+Today, high-speed trains can cover this distance in about three hours.
+However, back then, the roads from Sichuan to Xi'an were perilous,
 making the journey several days long by bus.
 
 Much to her surprise,
 when they finally met,
-my grandpa did not take a liking to her and attempted to call off the engagement.
+my grandpa was not fond of her and attempted to call off the engagement.
 Allegedly,
-this was because he considered her a bit too short to be his ideal wife.
+this was because he thought she was a bit too short to be his ideal wife.
 Naturally,
-after enduring such a grueling journey with the hope of starting a new life,
-this must have been a massive disappointment for my grandma.
+after enduring such a grueling journey with hopes of starting a new life,
+this must have been a tremendous disappointment for my grandma.
 Yet, she pulled herself together and said to my grandpa,
 
 > "It's fine if you don't want to marry me. 
@@ -113,31 +112,31 @@ right up until the day my grandpa passed away.
 
 {{<figure src="grandma-at-university.jpg" caption="Grandma visiting her University (2014)">}}
 
-Upon marrying my grandfather,
+After marrying my grandfather,
 my grandma enrolled at the Fourth Military Medical University[^2].
-She later became a part of the first generation of doctors in the People's Republic of
+She later became part of the first generation of doctors in the People's Republic of
 China to receive modern medical training.
 
-Such doctors were a rarity in China at the time.
+Such doctors were rare in China at the time.
 Therefore,
 even though she hadn't received surgical training,
-a colleague tried to teach her to perform minor surgeries.
-Unfortunately,
-my grandma's hands were too delicate to make incisions in a patient's skin.
+a colleague tried to teach her how to perform minor surgeries.
+With argument,
+my grandma recalled that her hands were too delicate to make incisions in a patient's skin.
 As a result,
 she remained an internist until her retirement.
 
 During the Korean War,
 some injured soldiers were sent to her hospital for treatment.
-Among them was a paraplegic soldier who was often distressed and would hurl abuse at the
-medical staff.
+Among them was a paraplegic soldier who often distressed the medical staff with his anger.
 "But when it was my turn to take care of
-him, he never yelled at me," my grandma would say with pride. This is the only time I can recall my grandma boasting about something she had done.
+him, he never yelled at me," my grandma said with pride.
+This is the only instance I can recall my grandma boasting about something she had done.
 
 ## Legacy
 
 After my grandma's funeral,
-I paid a visit to her youngest brother,
+I visited her youngest brother,
 who was too frail to attend the ceremony.
 As we reminisced about my grandmother,
 he told me,
@@ -145,7 +144,7 @@ he told me,
 > "I still remember when I was young, 
 > she would buy me books and encourage me to educate myself. 
 > Our generation lived through some really hard times. 
-> But no matter how bad things got, 
+> But no matter how difficult things got, 
 > your grandma always strove to improve herself and her situation. 
 > I've always admired her for that."
 
