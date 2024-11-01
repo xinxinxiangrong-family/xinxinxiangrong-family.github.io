@@ -134,7 +134,6 @@ Daughter of Youlan Cai (蔡幼兰). English name is Kathy.
 
 The above family tree was completed with new family members supplemented based on the versions organized by Xiangrong Cai (蔡向荣) and Liren Cai (蔡立人), the eldest son of Zhendong Cai (蔡震东).
 
-
 {{<figure src="family-tree.jpg" title="Cai Family Tree (Organized by Liren Cai)" >}}
 
 {{<figure src="family-tree-01.jpg" title="Cai Family Tree (Organized by Xiangrong Cai)" >}}
