@@ -121,8 +121,7 @@ Such doctors were rare in China at the time.
 Therefore,
 even though she hadn't received surgical training,
 a colleague tried to teach her how to perform minor surgeries.
-With argument,
-my grandma recalled that her hands were too delicate to make incisions in a patient's skin.
+My grandma recalled, with amusement, that her hands were too delicate to make incisions in a patient's skin.
 As a result,
 she remained an internist until her retirement.
 
